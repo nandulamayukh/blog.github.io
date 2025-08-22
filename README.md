@@ -1,2 +1,2 @@
-# blog.github.io
+# myblog
 Blog for thoughts
